@@ -1,0 +1,74 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    /* background-color: rgb(199, 199, 199); */
+    /* background: url("./assets/wall.jpg"); */
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("./assets/wall.jpg");
+    /* Set a specific height */
+    height: 300px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#about {
+    width: 100%;
+    background-color: #f58b28;
+    text-align: center;
+    color: whitesmoke;
+    padding: 40px;
+}
+
+/* .list {
+    text-align: center;
+} */
+
+#projects {
+    width: 100%;
+    background-color: rgb(219, 219, 219);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 140px;
+    padding-right: 140px;
+    float: center;
+}
+
+#sippin {
+    margin: 40 px;
+}
+
+#bama {
+    margin: 40 px;
+}
+
+#trivia {
+    margin: 40 px;
+}
+
+#skills {
+    width: 100%;
+    background-color: #f58b28;
+    text-align: center;
+    color: whitesmoke;
+    padding: 40px;
+}
+
+#contact {
+    padding: 80px;
+    background-color: rgb(219, 219, 219);
+}
+
+#connect {
+    background-color: #f58b28;
+    height: 50px;
+    padding: 20px;
+}
+
+h5 {
+    font-weight: 900;
+}
